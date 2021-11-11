@@ -44,7 +44,7 @@ And if you are not, don't worry! We have got you covered! There are 3 steps to c
 
 2.4 - Go to top right, select manage > Switch to new experience, it will prompt a confirmation message, click on switch.
 
-<img width="957" alt="4" src="https://user-images.githubusercontent.com/16270682/140980993-13e3a96b-29f1-4e8d-9e4e-50694575c48f.PNG">
+<img width="957" alt="140980993-13e3a96b-29f1-4e8d-9e4e-50694575c48f" src="https://user-images.githubusercontent.com/16270682/141315408-eafea0d8-5fd8-4aab-a7fb-c16d80c44d12.PNG">
 
 
 ## Step 3: Create your first assistant
